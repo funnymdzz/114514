@@ -11,10 +11,6 @@
        "description": "Vmess协议默认UUID，请输入自己的UUID",
        "value": "4890bd47-5180-4b1c-9a5d-3ef686543112"
      },
-     "V2_PATH": {
-       "description": "PATH路径，默认/FreeApp",
-       "value": "/FreeApp"
-     },
     "V2RAY_RAY_BUFFER_SIZE": {
        "description": "每个连接的缓存大小，单位MB，默认10。如果感觉有断流现象，请考虑将缓存改成1",
        "value": "10"
